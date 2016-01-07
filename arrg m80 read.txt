@@ -1,0 +1,26 @@
+Please vouch us on V3rmillion!
+
+You are using a vouch copy of our newest exploit, Reverb.
+For frequently asked questions, contact the xfi34 via Skype.
+Do not distribute illegal copies or you'll be blacklisted.
+
+Here's a list of commands:
+jpower -- jump power command thingy (bugs)
+god [p] -- gods the selected player and stuff
+ungod [p] -- removes their god lololollollololo
+killall -- kills pretty much anything with a humanoid that moves
+kickall -- removes all of the humanoids
+crash [p] -- RobloxPlayerBeta.exe has stopped working...
+kill [p] -- die pls
+kick [p] -- bye bye!
+fling [p] -- pretty buggy, makes them sit and launches them somewhere
+play [id] -- plays any audio
+antiElysian -- adds a script that crashes Elysian users
+antiSeven -- adds a script that crashes Seven users
+antiRC7 -- adds a script that crashes RC-7 users
+meatspin [p] -- crashes the player and sends them to meatspin in their default browser
+ff [p] -- gives them a forcefield
+unff [p] -- goodbye invulnerability
+nyeeess [p] -- turns them into pink guy and plays filthy frank remix
+
+More commands coming soon!
